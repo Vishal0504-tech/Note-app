@@ -14,6 +14,7 @@
     "axios": "^1.10.0",
     "daisyui": "^5.0.43",
     "lucide-react": "^0.522.0",
+    "mern-started": "file:../..",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-hot-toast": "^2.5.2",
